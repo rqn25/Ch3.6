@@ -49,6 +49,6 @@ public static void main(String[] args) {
 		}
 		select = (AccountType) JOptionPane.showInputDialog(null,"Select a month.", "List of months", JOptionPane.INFORMATION_MESSAGE, null, choices, choices[3]);
 		}
-		JOptionPane.showMessageDialog(null, "Good ByeU");
+		JOptionPane.showMessageDialog(null, "Good Bye");
 	}
 }
