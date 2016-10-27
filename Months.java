@@ -26,13 +26,13 @@ public static void main(String[] args) {
 			JOptionPane.showMessageDialog(null, "Happy Spring days.");
 			break;
 		case June:
-			JOptionPane.showMessageDialog(null, "It’s a summer time!");
+			JOptionPane.showMessageDialog(null, "Itâ€™s a summer time!");
 			break;
 		case July:
-			JOptionPane.showMessageDialog(null, "It’s a summer time!");
+			JOptionPane.showMessageDialog(null, "Itâ€™s a summer time!");
 			break;
 		case August:
-			JOptionPane.showMessageDialog(null, "It’s a summer time!");
+			JOptionPane.showMessageDialog(null, "Itâ€™s a summer time!");
 			break;
 		case September:
 			JOptionPane.showMessageDialog(null, "Welcome to the foliage season.");
@@ -49,6 +49,6 @@ public static void main(String[] args) {
 		}
 		select = (AccountType) JOptionPane.showInputDialog(null,"Select a month.", "List of months", JOptionPane.INFORMATION_MESSAGE, null, choices, choices[3]);
 		}
-		JOptionPane.showMessageDialog(null, "Good Bye");
+		JOptionPane.showMessageDialog(null, "Good ByeU");
 	}
 }
